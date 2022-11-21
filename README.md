@@ -43,3 +43,14 @@ start client in a new terminal (support multiple client)
 
 ![image-20221120162202196](./doc/img/chat-tokio-steam-demo.png)
 
+
+### Compress-file
+```shell
+> ./target/release/compress-file README.md target/EncodedReadme                ─╯
+Hello, world!
+Source len: 789
+Target len: 453
+Elapsed: 589.343µs
+```
+## Reference
+- https://rust-unofficial.github.io/patterns/intro.html

@@ -2,11 +2,16 @@
 
 A set of rust project for learning purpose.
 
-# Projects
 
-1. Snake: a simple snake game
-2. Chat-tokio-steam: chat app based on tokio
+# Project & RoadMap
 
+### Snake: a simple snake game
+
+- Simple snake game with basic functionality. 2022 Oct
+- Add Game info like score, speed 2023
+
+### Chat-tokio: chat app based on tokio
+- Chat-tokio-steam basic functionality Oct 2022
 
 
 # Compile & Run
